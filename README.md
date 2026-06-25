@@ -99,9 +99,6 @@ Telco-Customer-Churn-Analysis/
 ---
 
 ## 👩‍💻 Author
-*Nishitaisaac*  
-📂 [GitHub Profile](https://github.com/Nishitaisaac)  
-🔗 Data Analytics Portfolio Project | 2026
 **Nishitaisaac**  
 📂 [GitHub Profile](https://github.com/Nishitaisaac)  
 🔗 Data Analytics Portfolio Project | 2026
