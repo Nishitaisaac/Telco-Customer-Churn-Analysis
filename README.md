@@ -43,7 +43,7 @@ Understanding *why* customers leave helps businesses improve services, increase 
 ---
 
 ## 📌 Key Metrics (from Dashboard)
-- 👥 **Total Customers:** 7,043
+- 👥 **Total Customers:** 7,000
 - ⚠️ **Churned Customers:** 2000
 - 📉 **Churn Rate:** 26.5%
 - 💰 **Revenue at Risk:** $2.9M
